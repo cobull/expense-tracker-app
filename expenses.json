@@ -1,0 +1,146 @@
+[
+    {
+        "date": "2024-01-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 400,
+            "rent": 2000,
+            "transport": 50,
+            "utilities": 300,
+            "entertainment": 300,
+            "miscellanious": 450
+        }
+    },
+    {
+        "date": "2024-02-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 400,
+            "rent": 2000,
+            "transport": 50,
+            "utilities": 325,
+            "entertainment": 200,
+            "miscellanious": 150
+        }
+    },
+    {
+        "date": "2024-03-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 350,
+            "rent": 2000,
+            "transport": 50,
+            "utilities": 325,
+            "entertainment": 215,
+            "miscellanious": 100
+        }
+    },
+    {
+        "date": "2024-04-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 375,
+            "rent": 2000,
+            "transport": 55,
+            "utilities": 315,
+            "entertainment": 100,
+            "miscellanious": 200
+        }
+    },
+    {
+        "date": "2024-05-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 450,
+            "rent": 2000,
+            "transport": 60,
+            "utilities": 350,
+            "entertainment": 75,
+            "miscellanious": 300
+        }
+    },
+    {
+        "date": "2024-06-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 450,
+            "rent": 2000,
+            "transport": 65,
+            "utilities": 400,
+            "entertainment": 50,
+            "miscellanious": 165
+        }
+    },
+    {
+        "date": "2024-07-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 475,
+            "rent": 2000,
+            "transport": 57,
+            "utilities": 500,
+            "entertainment": 50,
+            "miscellanious": 400
+        }
+    },
+    {
+        "date": "2024-08-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 375,
+            "rent": 2000,
+            "transport": 50,
+            "utilities": 515,
+            "entertainment": 100,
+            "miscellanious": 75
+        }
+    },
+    {
+        "date": "2024-09-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 350,
+            "rent": 2000,
+            "transport": 50,
+            "utilities": 475,
+            "entertainment": 150,
+            "miscellanious": 100
+        }
+    },
+    {
+        "date": "2024-10-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 400,
+            "rent": 2000,
+            "transport": 50,
+            "utilities": 425,
+            "entertainment": 175,
+            "miscellanious": 215
+        }
+    },
+    {
+        "date": "2024-11-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 415,
+            "rent": 2000,
+            "transport": 50,
+            "utilities": 400,
+            "entertainment": 215,
+            "miscellanious": 175
+        }
+    },
+    {
+        "date": "2024-12-01T12:00:00.000Z",
+        "income": 5000,
+        "expenses": {
+            "food": 425,
+            "rent": 2000,
+            "transport": 50,
+            "utilities": 400,
+            "entertainment": 200,
+            "miscellanious": 500
+        }
+    }
+]
